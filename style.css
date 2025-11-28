@@ -109,7 +109,7 @@ section h2::after {
 /* ============================================== */
 .hero {
     text-align: center;        /* Centers all text */
-    padding: 120px 20px;       /* Large top/bottom spacing */
+    padding: 120px 25px;       /* Large top/bottom spacing */
     background: linear-gradient(135deg, #006239 0%, #004d2d 100%); /* Primary green gradient */
     /* To use an image instead, uncomment below and replace 'your-image.jpg' with your image path: */
     /* background-image: url('your-image.jpg'); */
@@ -184,7 +184,7 @@ section h2::after {
     margin: 0 auto;            /* Centers the paragraph */
     font-size: 1.15rem;        /* Slightly larger text */
     line-height: 1.8;          /* More space between lines */
-    color: #242424;            /* Secondary dark text */
+    color: #14de28;            /* Secondary dark text */
 }
 
 /* ============================================== */
